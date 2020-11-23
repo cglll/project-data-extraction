@@ -1,0 +1,27 @@
+    {
+			"token_type": "Bearer",
+			"expires_at": 1606077678,
+			"expires_in": 21599,
+			"refresh_token": "f9af5c7c514c2cfdb360cadddb93b2ed055c1960",
+			"access_token": "0c0012d147100761ca9f426dd18da5f984bf3947",
+			"athlete": {
+				"id": 44351270,
+				"username": "bhserrato",
+				"resource_state": 2,
+				"firstname": "Barbs",
+				"lastname": "H Serrato",
+				"city": null,
+				"state": null,
+				"country": null,
+				"sex": "F",
+				"premium": false,
+				"summit": false,
+				"created_at": "2019-07-16T20:01:01Z",
+				"updated_at": "2019-09-21T14:19:45Z",
+				"badge_type_id": 0,
+				"profile_medium": "https://graph.facebook.com/2415194738545801/picture?height=256&width=256",
+				"profile": "https://graph.facebook.com/2415194738545801/picture?height=256&width=256",
+				"friend": null,
+				"follower": null
+			}
+		}

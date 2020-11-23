@@ -1,0 +1,27 @@
+{
+			"token_type": "Bearer",
+			"expires_at": 1605856099,
+			"expires_in": 21600,
+			"refresh_token": "dfcced002b6003a4a0f99327b170af9930ec63ba",
+			"access_token": "10f70a7769054820c2d56f994d463b076170656f",
+			"athlete": {
+				"id": 27541670,
+				"username": null,
+				"resource_state": 2,
+				"firstname": "Carla",
+				"lastname": "Cglll",
+				"city": "Querétaro",
+				"state": "QUERETARO",
+				"country": null,
+				"sex": "F",
+				"premium": false,
+				"summit": false,
+				"created_at": "2018-01-21T18:12:13Z",
+				"updated_at": "2019-10-31T19:13:46Z",
+				"badge_type_id": 0,
+				"profile_medium": "https://lh4.googleusercontent.com/-u3L5XD-hfmI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckZDz7CUrM06y-cJ3n4njhbrdrVtg/s96-c/photo.jpg",
+				"profile": "https://lh4.googleusercontent.com/-u3L5XD-hfmI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckZDz7CUrM06y-cJ3n4njhbrdrVtg/s96-c/photo.jpg",
+				"friend": null,
+				"follower": null
+			}
+		}
